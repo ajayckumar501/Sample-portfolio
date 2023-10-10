@@ -105,6 +105,7 @@ h2 {
   font-size: 25px;
   color: rgb(128, 128, 128);
   margin-top: -1cm;
+  display:flex;
 }
 
 .profile_image {
